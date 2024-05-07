@@ -48,4 +48,5 @@
 
 .imageUpdates {
   object-fit: contain;
+  width: 60%;
 }
